@@ -1,0 +1,107 @@
+.maindiv {
+    width: 100%;
+    height: 120px;
+    background-color: #333333;
+    text-align: left;
+    color: aliceblue;
+
+
+}
+
+.first {
+    width: 500px;
+    height: 53px;
+    background-color: #232323;
+    float: right;
+    text-align: center;
+    color: #979798;
+
+}
+
+.paragraph {
+
+    text-align: center;
+    font-family: georgia;
+    color: #979798;
+    font-size: 25px
+}
+
+.layout {
+    width: 1300px;
+    height: 150px;
+
+
+}
+
+.layout1 {
+    width: 215px;
+    height: 150px;
+    background-color: #353535;
+    float: left;
+    margin-left: 130px;
+    color: white;
+    font-family: georgia;
+    font-size: 20px;
+    border: 5px solid grey;
+    border-radius: 3px;
+
+
+
+
+}
+
+.layout2 {
+    width: 215px;
+    height: 150px;
+    background-color: #353535;
+    float: left;
+    margin-left: 75px;
+    color: white;
+    font-family: georgia;
+    font-size: 20px;
+    border: 5px solid grey;
+    border-radius: 3px;
+
+}
+
+
+.layout3 {
+    width: 215px;
+    height: 150px;
+    background-color: #353535;
+    float: left;
+    margin-left: 75px;
+    color: white;
+    font-family: georgia;
+    font-size: 20px;
+    border: 5px solid grey;
+    border-radius: 3px;
+
+}
+
+.layout4 {
+    width: 215px;
+    height: 150px;
+    background-color: #353535;
+    float: left;
+    margin-left: 75px;
+    color: white;
+    font-family: georgia;
+    font-size: 20px;
+    border: 5px solid grey;
+    border-radius: 3px;
+
+
+}
+.option1{
+    width: 40px;
+    height: 40px;
+    background-color: aquamarine;
+    
+        
+    
+    
+    
+}
+
+
